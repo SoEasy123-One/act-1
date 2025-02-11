@@ -1,0 +1,53 @@
+.img {
+    border-width: 2px;
+    border-color: rgb(255, 255, 255);
+    border-style: solid;
+    width: 100px;
+    height: 100px;
+    object-fit: fill;
+    border-radius: 250px;
+    vertical-align: middle;
+}
+body {
+    background: url(Kiyotaka.jpg);
+    background-repeat: none;
+}
+.elite {
+    font-size: 36px;
+    color: white;
+}
+.kiyo {
+    border: 2px inset red;
+    color: white;
+    font-size: 36px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+    display: inline-block;
+    margin-left: 350px;
+    margin-top: 50px;
+}
+.aya {
+    border: 2px inset red;
+    color: white;
+    font-size: 36px;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+   display: inline;
+   margin-left: 450px;
+}
+.haha{
+    border: 1px solid red;
+    color: pink;
+    padding: 50px;
+    font-size: 20px;
+    box-shadow: 5px 5px 3px rgba(0, 0, 0, 0.4);
+   display: inline-block;
+   margin-top: 50px;
+   margin-left: 350px;
+}
+.hahaha {
+    font-size: 50px;
+    border: 2px solid red;
+    box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.4);
+    
+ 
+
+}
